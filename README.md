@@ -22,3 +22,5 @@ You can create your access token from your github profile section follow the bel
 6. Click Generate token
 7. Copy the token – this is your new password!
 Now your password is your accesstoken. while push or pull just use your access token as password.
+
+git clone --branch <branchname> <remote-repo-url> Use this command for clone a specific branch
